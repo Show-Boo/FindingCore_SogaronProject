@@ -8,7 +8,7 @@
     <img src="https://img.youtube.com/vi/89t_dkjJQUQ/maxresdefault.jpg" width="250" alt="Watch the video">
 </a>
 
-### 제목(Title)
+### 제목
 > 🦊**Finding Core**
 
 ### 장르
