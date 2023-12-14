@@ -8,7 +8,8 @@
     <img src="https://img.youtube.com/vi/89t_dkjJQUQ/maxresdefault.jpg" width="250" alt="Watch the video">
 </a>
 
-
+### 장르
+> 2D 플랫포머, 캐주얼, 점프맵
 
 ## 개발 도구
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
