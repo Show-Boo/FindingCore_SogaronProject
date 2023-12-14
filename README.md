@@ -8,11 +8,14 @@
     <img src="https://img.youtube.com/vi/89t_dkjJQUQ/maxresdefault.jpg" width="250" alt="Watch the video">
 </a>
 
+### 제목(Title)
+> 🦊**Finding Core**
+
 ### 장르
-> 2D 플랫포머, 캐주얼, 점프맵
+> 🎮2D 플랫포머, 캐주얼, 점프맵
 
 ## 개발 도구
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+🧰 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 개발 목적
 언리얼에서 2D 플랫포머 게임 제작.  
