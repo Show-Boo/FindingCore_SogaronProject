@@ -12,3 +12,11 @@
 
 ## 개발 도구
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+## 개발 목적
+언리얼에서 2D 플랫포머 게임 제작.  
+공장을 뚫고 최종 코어에 도달하라.  
+
+### 🎮조작
+**이동(Move)**: `W,A,S,D` <br>  
+**점프(Jump)**: `Space bar`<br>  
