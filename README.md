@@ -15,7 +15,7 @@
 > 🎮2D 플랫포머, 캐주얼, 점프맵
 
 ## 개발 도구
-🧰 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## 개발 목적
 언리얼에서 2D 플랫포머 게임 제작.  
